@@ -5,7 +5,7 @@ import math
 
 FPS = 60
 
-WHITE = (240, 240, 240)
+WHITE = (240, 240, 241)
 BLACK = (45, 45, 45)
 GREEN = (20, 40, 10)
 YELLOW = (47, 213, 60)
